@@ -1,3 +1,11 @@
+/*
+Nama Program  : namaHari.c
+Deskripsi     : Mengecek dan menampilkan nama hari berdasarkan nomornya
+Nama Pembuat  : Hamam Azidani
+NIM           : 24060122130099
+Tanggal       : 5 Maret 2023
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

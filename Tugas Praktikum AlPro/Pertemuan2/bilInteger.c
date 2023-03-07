@@ -1,3 +1,11 @@
+/*
+Nama Program  : bilInteger.c
+Deskripsi     : Mengecek dan menampilkan jenis bilangan integer
+Nama Pembuat  : Hamam Azidani
+NIM           : 24060122130099
+Tanggal       : 5 Maret 2023
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

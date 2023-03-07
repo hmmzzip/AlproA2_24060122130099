@@ -1,3 +1,11 @@
+/*
+Nama Program  : CekSegitiga.c
+Deskripsi     : Menecek dan menampilkan jenis dari sebuah segitiga dari besar sisi-sisinya
+Nama Pembuat  : Hamam Azidani
+NIM           : 24060122130099
+Tanggal       : 5 Maret 2023
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

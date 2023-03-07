@@ -1,3 +1,11 @@
+/*
+Nama Program  : namaBulan.c
+Deskripsi     : Mengecek dan menampilkan nama bulan berdasarkan nomornya
+Nama Pembuat  : Hamam Azidani
+NIM           : 24060122130099
+Tanggal       : 5 Maret 2023
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

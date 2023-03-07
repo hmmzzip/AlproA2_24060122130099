@@ -1,20 +1,26 @@
+/*
+Nama Program  : kallSS.c
+Deskripsi     : Menghitung dan menampilkan operasi bilangan berdasarkan opsi operasi yang dipilih
+Nama Pembuat  : Hamam Azidani
+NIM           : 24060122130099
+Tanggal       : 5 Maret 2023
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
 int main(void)
 {
 /* Kamus */
-int iA,iB;
-char pO;
+    int iA,iB;
+    char pO;
 /* Algoritma */
-printf("Masukkan nilai A :");
-scanf("%d", &iA);
-
-printf("Masukkan nilai B :");
-scanf("%d", &iB);
-
-printf("Masukkan pilihan operasi :");
-scanf(" %c", &pO);
+    printf("Masukkan nilai A :");
+    scanf("%d", &iA);
+    printf("Masukkan nilai B :");
+    scanf("%d", &iB);
+    printf("Masukkan pilihan operasi :");
+    scanf(" %c", &pO);
 
 switch (pO)
 {
